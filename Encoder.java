@@ -18,6 +18,6 @@ public class Encoder {
         }
 
         encodedMessage += "e>";
-        System.out.println(encodedMessage);
+        System.out.println("Encoded Message = " + encodedMessage);
     }
 }
