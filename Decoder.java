@@ -25,7 +25,7 @@ public class Decoder {
                 encodedMessage += encodedChar;
             }
 
-            System.out.println(encodedMessage);
+            System.out.println("Decoded Message = " + encodedMessage);
         }
     }
 }
